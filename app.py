@@ -33,7 +33,7 @@ class JSONFileLogger(Logger):
    list = []
    list.append(dict)
    file = open(self.filename, "w")
-   json_data = json.dumps(list, indent=4)
+   json_data = json.dumps(list, indent = 1)
    file.write(json_data)
    file.close()
   else:
