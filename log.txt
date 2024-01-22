@@ -1,0 +1,3 @@
+support: 2024-01-21 19:16:51: received "hi", replied with "hello!"
+support: 2024-01-21 19:16:51: received "bye", replied with "goodbye!"
+support: 2024-01-21 19:16:51: could not reply to "how are you?"

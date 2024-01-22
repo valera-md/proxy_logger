@@ -1,0 +1,14 @@
+[
+ {
+  "timestamp": "support: 2024-01-22 07:59:42:",
+  "information": "received \"hi\", replied with \"hello!\""
+ },
+ {
+  "timestamp": "support: 2024-01-22 07:59:42:",
+  "information": "received \"bye\", replied with \"goodbye!\""
+ },
+ {
+  "timestamp": "support: 2024-01-22 07:59:42:",
+  "information": "could not reply to \"how are you?\""
+ }
+]
